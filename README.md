@@ -1030,6 +1030,36 @@ If the step size is too small, the movement in the search space will be small, a
 ![29 06 2022_12 20 14_REC](https://user-images.githubusercontent.com/99672298/181745213-8a536a87-7245-4365-b67c-de6df086d26b.png)
 
 ___
+## Author
+
+<table>
+<tr>
+<td>
+     <img src="https://avatars.githubusercontent.com/u/111117746?s=400&u=ff9443bb4c65605c40b3e9d8344ce4701ee29bc4&v=4">
+     
+     rohitshewale302@gmail.com
+
+<p align="center">
+<a href = "https://github.com/rohitshewale302"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/rohit-shewale-b71877239/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr> 
+  </table>
+
+<div style="display:fill;
+            border-radius: false;
+            border-style: solid;
+            border-color:#000000;
+            border-style: false;
+            border-width: 2px;
+            color:#CF673A;
+            font-size:15px;
+            font-family: Georgia;
+            background-color:#E8DCCC;
+            text-align:center;
+            letter-spacing:0.1px;
+            padding: 0.1em;">
 
 
 
